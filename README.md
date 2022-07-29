@@ -9,4 +9,4 @@ It's  a  Frontend  Web Development Project using HTML and CSS.
 
 - While developing this webpage, I became more familiar with CSS Selectors and HTML elements. It took around One hour to finish this project.
 
-- It is hosted on [Netlify](https://clinquant-cuchufli-4b24a3.netlify.app/)
+- It is hosted on [Netlify](https://fabulous-taffy-de7893.netlify.app//)
